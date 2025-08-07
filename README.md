@@ -27,18 +27,18 @@ This project involves the creation and configuration of an **Azure Storage Accou
 ## 📸 Screenshots
 
 - **Storage account dashboard**  
- <img width="637" height="209" alt="image" src="https://github.com/user-attachments/assets/a62b0148-f094-43cd-88fa-ad00c1f1a60d" />
+ <img width="637" height="209" alt="image" src="./screenshots/Image1" />
 
 
 - **Blob container named `images`**  
-  <img width="642" height="351" alt="image" src="https://github.com/user-attachments/assets/2d955a84-fa2a-4f43-b647-cf59bb47221f" />
+  <img width="642" height="351" alt="image" src="./screenshots/Image2" />
 
 
 - **Uploaded image files**  
-  <img width="641" height="315" alt="image" src="https://github.com/user-attachments/assets/97477ede-beaf-4355-8077-f53f57d271e5" />
+  <img width="641" height="315" alt="image" src="./screenshots/Image3" />
 
 - **Azure cost calculator summary page**  
- <img width="629" height="332" alt="image" src="https://github.com/user-attachments/assets/d10c0b56-9794-4144-b016-8a2ddf8fa637" />
+ <img width="629" height="332" alt="image" src="./screenshots/Image4" />
 
 
 ✅ Outcome
